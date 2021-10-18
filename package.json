@@ -1,0 +1,15 @@
+{
+  "name": "aula21",
+  "version": "1.0.0",
+  "description": "Aula 21 de Programação Imperativa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "trabalhando": "nodemon index.js"
+  },
+  "author": "Felipe Bertevello",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
